@@ -1,5 +1,6 @@
 import os,sys,time
-
-print("hello,world")
-
+def lin():
+	print("hello,world")
+if __name__=='__main__':
+    lin()
 
